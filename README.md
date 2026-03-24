@@ -1,5 +1,6 @@
 # Eris
 **An out-of-this-world, perfectly imbalanced Balatro mod**
+*please* play this with all below mods and their dependencies installed. This mod is intended for use with them and their mechanics. Beneath that section is a set of recommended, but not required, mods that could potentially synergise well with included content.
 
 # Cross-mod
 This mod has been designed with multiple content mods and their add-ons considered. This includes:
@@ -21,7 +22,7 @@ Freedom/Ultimate Freedom Decks + Freedom Sleeve (Aikoyori's Shenanigans):
 
 Deck of Equilibrium / Sleeve of Equilibrium (Cryptid):
 - Causes some jokers and consumables intentioonally hidden from the shop to show up while rerolling. Buying these jokers can be done - but in some rare cases this is not the intended path.
-- Some vouchers have been added to do some crazy stuff intended for use in the late game - using these too early can cause the game to become boring, powering through antes like they're nothing.
+- Some vouchers that have been added could potentially do some crazy stuff intended for use in the late game - using these too early can cause the game to become boring, powering through antes like they're nothing.
 - Some tags intended to be used immediately have a risk of not setting off if a requirement to not set off is satisfied or vice versa.
 
 CCD Deck / CCD Sleeve (Cryptid):
@@ -38,3 +39,12 @@ Oops! All 6s! (Vanilla):
 
 Showman, Blueprint, Brainstorm etc. (Vanilla):
 - Also not too risky, but if there are multiple jokers doing advanced maths (like tetration, pentation, hexation etc) then this could cause serious instability or crashes.
+
+Printer (Revo's Vault):
+- Can potentially generate insanely overpowered jokers which, although part of the mechanic for this printer, can ruin intended scaling pathways.
+
+# Recommended mods for installation
+- Seals on Everything
+- Mayhem (Mayhem mode recommended as Eternum throws balance not only out the window but off of the planet)
+- Madness (Overscore OFF)
+- Math Blinds
