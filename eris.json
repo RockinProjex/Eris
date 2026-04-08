@@ -1,0 +1,26 @@
+{
+	"id": "eris",
+	"name": "Eris (Early Indev)",
+	"author": ["Retropix", "plus all of my internet deadnames"],
+	"description": "An out-of-this-world, perfectly imbalanced Balatro mod! VERY EARLY INDEV RELEASE INCLUDING FEW CHANGES. PLAY AT YOUR OWN RISK.",
+	"prefix": "ers",
+	"main_file": "eris.lua",
+	"priority": 13, 
+	"badge_colour": "330099",
+	"badge_text_colour": "ffffff",
+	"display_name": "Eris",
+	"icon_path": "basics/modicon.png",
+	"version": "0.1.0~dev",
+	"dependencies": [
+		"Steamodded",
+		"Lovely",
+		"Balatro (>=1.0.1o)",
+		"Talisman",
+	],
+	"conflicts": [
+	],
+	"provides": [
+		"planet_x",
+		"ceres",
+	],
+}

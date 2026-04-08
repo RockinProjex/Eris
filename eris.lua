@@ -1,0 +1,23 @@
+assert(SMODS.load_file("additions/jokers.lua"))()
+--assert(SMODS.load_file("additions/backs.lua"))()
+--assert(SMODS.load_file("additions/blinds.lua"))()
+--assert(SMODS.load_file("additions/seals.lua"))()
+--assert(SMODS.load_file("additions/vouchers.lua"))()
+--assert(SMODS.load_file("additions/enhancements.lua"))()
+--assert(SMODS.load_file("additions/tarots.lua"))()
+--assert(SMODS.load_file("additions/editions.lua"))()
+--assert(SMODS.load_file("additions/spectrals.lua"))()
+--assert(SMODS.load_file("additions/challenges.lua"))()
+--assert(SMODS.load_file("additions/stakes.lua"))()
+--assert(SMODS.load_file("additions/rarities.lua"))()
+--assert(SMODS.load_file("additions/stickers.lua"))()
+--assert(SMODS.load_file("additions/tags.lua"))()
+--assert(SMODS.load_file("additions/boosters.lua"))()
+assert(SMODS.load_file("additions/planets.lua"))()
+assert(SMODS.load_file("additions/pokerhands.lua"))()
+
+-- These are annoying (but they work)
+--assert(SMODS.load_file("additions/suits.lua"))()
+--assert(SMODS.load_file("additions/ranks.lua"))()
+
+--yes this is just a blatant copy of VanillaRemade's main file
