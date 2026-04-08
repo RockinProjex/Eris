@@ -2,6 +2,11 @@
 **An out-of-this-world, perfectly imbalanced Balatro mod**
 *please* play this with all below mods and their dependencies installed. This mod is intended for use with them and their mechanics. Beneath that section is a set of recommended, but not required, mods that could potentially synergise well with included content.
 
+# Indev Release 0.1.0~dev! (08/04/2026)
+Hello! Today marks the first milestone of this mod. The first release. I have attempted to make it as stable as possible.
+Head to the Releases tab to download! Please do not use the code button - this could have unreleased changes not yet meant for playing.
+If you see a joker which has +1048576 mult and uses placeholder art, please know this is the testing joker and it has been made so you can fly through low antes and unlock the mod's full potential without requiring a full playthrough.
+
 # Cross-mod
 This mod has been designed with multiple content mods and their add-ons considered. This includes:
 - Cryptid
@@ -28,7 +33,7 @@ Deck of Equilibrium / Sleeve of Equilibrium (Cryptid):
 CCD Deck / CCD Sleeve (Cryptid):
 - Since this makes all cards in the deck useable like a consumable, some very overpowered consumables not meant for use in low antes may appear on the cards. This could invalidate intended scaling features.
 
-Ultima Misprint Deck / Ultima Misprint Sleeve + Ulta Misprint Deck with More Misprint Sleeve (Aikoyori's Shenanigans):
+Ultima Misprint Deck / Ultima Misprint Sleeve + Ultima Misprint Deck with More Misprint Sleeve (Aikoyori's Shenanigans):
 - Since all values can be modified by x0.0001 through x10000 up to twice (with both the deck and the sleeve in use) this will definitely cause crashes if not careful, consider all values on the card to reduce risk.
 
 ://SEED and ://MULTIPLY (Cryptid):
